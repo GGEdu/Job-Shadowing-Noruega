@@ -21,10 +21,11 @@ Borrador estructurado del **Proyecto de Trabajo** (*Work Project*) redactado con
 |----------|-----------|
 | [1. Datos generales](./contenidos/1-datos-generales) | Participante, centros, departamento, contacto y fechas |
 | [2. Motivos y justificación](./contenidos/2-motivos-justificacion) | Por qué el Åssiden vgs y por qué ahora |
-| [3. Objetivos y expectativas](./contenidos/3-objetivos-expectativas) | Metas estratégicas y pedagógicas de la movilidad |
-| [4. Plan de trabajo](./contenidos/4-plan-de-trabajo) | Actividades previstas durante la estancia |
-| [5. Prospección de empresas (FCT)](./contenidos/5-prospeccion-fct) | Vías para futuras prácticas del alumnado en Noruega |
-| [6. Impacto y difusión](./contenidos/6-impacto-difusion) | Transferencia al CEEDCV y dimensión europea |
+| [3. Innovación e IA](./contenidos/3-innovacion-ia) | Proyectos de IA y aprendizaje adaptativo del centro de acogida |
+| [4. Objetivos y expectativas](./contenidos/4-objetivos-expectativas) | Metas estratégicas y pedagógicas de la movilidad |
+| [5. Plan de trabajo](./contenidos/5-plan-de-trabajo) | Actividades previstas durante la estancia |
+| [6. Prospección de empresas (FCT)](./contenidos/6-prospeccion-fct) | Empresas de Drammen y Oslo para futuras prácticas |
+| [7. Impacto y difusión](./contenidos/7-impacto-difusion) | Transferencia al CEEDCV y dimensión europea |
 
 ## 🎯 Resumen ejecutivo
 

@@ -35,6 +35,10 @@ Observar cómo un centro noruego de referencia aborda la enseñanza de **compete
 El valor de la movilidad reside precisamente en el **contraste**: un modelo presencial consolidado frente a un modelo a distancia en construcción permanente. De esa comparación surgen las transferencias más valiosas.
 :::
 
+## 2.3 Un centro pionero en Inteligencia Artificial
+
+A la solidez técnica del departamento de IM se suma su carácter **pionero en innovación educativa con Inteligencia Artificial**, un factor que refuerza decisivamente la elección del destino y que se desarrolla en el [siguiente apartado](./3-innovacion-ia).
+
 ---
 
-**Siguiente apartado:** [3. Objetivos y expectativas →](./3-objetivos-expectativas)
+**Siguiente apartado:** [3. Innovación e Inteligencia Artificial →](./3-innovacion-ia)

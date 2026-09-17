@@ -1,13 +1,13 @@
 ---
 layout: doc
-title: 3. Objetivos y Expectativas
+title: 4. Objetivos y Expectativas
 description: Objetivos estratégicos y pedagógicos de la movilidad Erasmus+ de Job Shadowing.
 sidebar: true
 outline: [2, 3]
 aside: true
 ---
 
-# 3. Objetivos y Expectativas
+# 4. Objetivos y Expectativas
 
 <ExportPDF />
 
@@ -63,4 +63,4 @@ Que esta primera toma de contacto se convierta en una **relación estable** que 
 
 ---
 
-**Siguiente apartado:** [4. Plan de trabajo →](./4-plan-de-trabajo)
+**Siguiente apartado:** [5. Plan de trabajo →](./5-plan-de-trabajo)

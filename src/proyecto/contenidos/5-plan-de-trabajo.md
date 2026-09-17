@@ -1,13 +1,13 @@
 ---
 layout: doc
-title: 4. Plan de Trabajo y Actividades
+title: 5. Plan de Trabajo y Actividades
 description: Actividades previstas durante la estancia de Job Shadowing en el Åssiden videregående skole.
 sidebar: true
 outline: [2, 3]
 aside: true
 ---
 
-# 4. Plan de Trabajo y Actividades a Realizar
+# 5. Plan de Trabajo y Actividades a Realizar
 
 <ExportPDF />
 
@@ -49,4 +49,4 @@ Reunión con la coordinadora internacional, **Ana Sieder**, para definir posible
 
 ---
 
-**Siguiente apartado:** [5. Prospección de empresas (FCT) →](./5-prospeccion-fct)
+**Siguiente apartado:** [6. Prospección de empresas (FCT) →](./6-prospeccion-fct)

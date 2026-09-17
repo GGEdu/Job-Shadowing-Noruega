@@ -21,10 +21,11 @@ Construido con [VitePress](https://vitepress.dev/) a partir de la plantilla
 | Presentación | `src/proyecto/index.md` |
 | 1. Datos generales de la movilidad | `src/proyecto/contenidos/1-datos-generales.md` |
 | 2. Motivos y justificación | `src/proyecto/contenidos/2-motivos-justificacion.md` |
-| 3. Objetivos y expectativas | `src/proyecto/contenidos/3-objetivos-expectativas.md` |
-| 4. Plan de trabajo y actividades | `src/proyecto/contenidos/4-plan-de-trabajo.md` |
-| 5. Prospección de empresas (FCT) | `src/proyecto/contenidos/5-prospeccion-fct.md` |
-| 6. Impacto y difusión esperada | `src/proyecto/contenidos/6-impacto-difusion.md` |
+| 3. Alineación con proyectos de innovación e IA | `src/proyecto/contenidos/3-innovacion-ia.md` |
+| 4. Objetivos y expectativas | `src/proyecto/contenidos/4-objetivos-expectativas.md` |
+| 5. Plan de trabajo y actividades | `src/proyecto/contenidos/5-plan-de-trabajo.md` |
+| 6. Prospección de empresas (FCT) | `src/proyecto/contenidos/6-prospeccion-fct.md` |
+| 7. Impacto y difusión esperada | `src/proyecto/contenidos/7-impacto-difusion.md` |
 
 ---
 

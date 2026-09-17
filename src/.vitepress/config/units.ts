@@ -40,10 +40,11 @@ const baseNavbar: DefaultTheme.NavItem[] = [
     items: [
       { text: '1. Datos generales', link: '/contenidos/1-datos-generales' },
       { text: '2. Motivos y justificación', link: '/contenidos/2-motivos-justificacion' },
-      { text: '3. Objetivos y expectativas', link: '/contenidos/3-objetivos-expectativas' },
-      { text: '4. Plan de trabajo', link: '/contenidos/4-plan-de-trabajo' },
-      { text: '5. Prospección de empresas (FCT)', link: '/contenidos/5-prospeccion-fct' },
-      { text: '6. Impacto y difusión', link: '/contenidos/6-impacto-difusion' },
+      { text: '3. Innovación e IA', link: '/contenidos/3-innovacion-ia' },
+      { text: '4. Objetivos y expectativas', link: '/contenidos/4-objetivos-expectativas' },
+      { text: '5. Plan de trabajo', link: '/contenidos/5-plan-de-trabajo' },
+      { text: '6. Prospección de empresas (FCT)', link: '/contenidos/6-prospeccion-fct' },
+      { text: '7. Impacto y difusión', link: '/contenidos/7-impacto-difusion' },
     ]
   },
 ]
@@ -63,22 +64,23 @@ const baseSidebar: DefaultTheme.SidebarItem[] = [
     collapsed: false,
     items: [
       { text: '2. Motivos y justificación', link: '/contenidos/2-motivos-justificacion' },
-      { text: '3. Objetivos y expectativas', link: '/contenidos/3-objetivos-expectativas' },
+      { text: '3. Innovación e IA', link: '/contenidos/3-innovacion-ia' },
+      { text: '4. Objetivos y expectativas', link: '/contenidos/4-objetivos-expectativas' },
     ]
   },
   {
     text: '🗺️ Desarrollo de la movilidad',
     collapsed: false,
     items: [
-      { text: '4. Plan de trabajo', link: '/contenidos/4-plan-de-trabajo' },
-      { text: '5. Prospección de empresas (FCT)', link: '/contenidos/5-prospeccion-fct' },
+      { text: '5. Plan de trabajo', link: '/contenidos/5-plan-de-trabajo' },
+      { text: '6. Prospección de empresas (FCT)', link: '/contenidos/6-prospeccion-fct' },
     ]
   },
   {
     text: '📣 Resultados',
     collapsed: false,
     items: [
-      { text: '6. Impacto y difusión', link: '/contenidos/6-impacto-difusion' },
+      { text: '7. Impacto y difusión', link: '/contenidos/7-impacto-difusion' },
     ]
   },
 ]
