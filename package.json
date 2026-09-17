@@ -1,4 +1,8 @@
 {
+  "name": "job-shadowing-noruega",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Proyecto de Trabajo Erasmus+ — Job Shadowing en Åssiden videregående skole (Drammen, Noruega)",
   "dependencies": {
     "html-to-image": "^1.11.13",
     "html2canvas-pro": "^2.0.2",

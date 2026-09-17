@@ -20,7 +20,7 @@ export const PROJECT = {
   //   '/'                   → dominio raíz (https://midominio.com/)
   //
   // ⚠️ Siempre con barras al inicio Y al final.
-  basePath: '/EduPress/',
+  basePath: '/Job-Shadowing-Noruega/',
 
   // --------------------------------------------------------------------------
   // IDIOMA
@@ -31,12 +31,12 @@ export const PROJECT = {
   // DESCRIPCIÓN DEL SITIO
   // --------------------------------------------------------------------------
   // Aparece en los metadatos SEO y como subtítulo en buscadores.
-  description: 'EduPress — Plantilla modular para VitePress',
+  description: 'Proyecto de Trabajo Erasmus+ — Job Shadowing en Åssiden videregående skole (Drammen, Noruega)',
 
   // --------------------------------------------------------------------------
   // COPYRIGHT (pie de página)
   // --------------------------------------------------------------------------
-  copyright: 'Copyright © 2026',
+  copyright: 'Copyright © 2026 Guillermo Garrido — CEEDCV',
   
   // --------------------------------------------------------------------------
   // LICENCIA (pie de página)

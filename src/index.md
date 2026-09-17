@@ -2,34 +2,34 @@
 layout: home
 
 hero:
-  name: "EduPress"
-  text: "Crea cursos en Markdown"
-  tagline: "Diapositivas, ejercicios y bloques enriquecidos. Desplegable en GitHub Pages en minutos."
+  name: "Job Shadowing"
+  text: "Åssiden videregående skole · Noruega"
+  tagline: "Proyecto de Trabajo Erasmus+ del CEEDCV — observación docente, contraste metodológico y prospección de empresas TIC en Drammen."
   actions:
     - theme: brand
-      text: Curso único →
-      link: /general/contenidos/4-curso-unico
+      text: Ver el proyecto →
+      link: /proyecto/
     - theme: alt
-      text: Curso modular →
-      link: /general/contenidos/5-curso-modular
+      text: Datos generales →
+      link: /proyecto/contenidos/1-datos-generales
 
 features:
-  - icon: 📝
-    title: Todo en Markdown
-    details: Bloques :::info-box, :::accent-box, pestañas y tablas. Sin HTML, sin Vue, sin código.
-  - icon: 🎞️
-    title: Diapositivas nativas
-    details: Componente SlidesViewer con lightbox y pantalla completa. Las imágenes como slides.
-  - icon: 🎮
-    title: Ejercicios gamificados
-    details: Historia visual con scroll parallax que conduce al enunciado. Íconos de criterios WCAG.
-  - icon: ⚙️
-    title: 4 archivos, todo configurado
-    details: project.ts, colors.ts, logos.ts, units.ts. Sin tocar CSS ni componentes Vue.
-  - icon: 🌙
-    title: Modo oscuro automático
-    details: Colores, diagramas Mermaid y diapositivas se adaptan al tema del sistema operativo.
-  - icon: 🚀
-    title: GitHub Pages en un push
-    details: GitHub Actions incluido en la plantilla. Un push a main y el curso está publicado.
+  - icon: 🇳🇴
+    title: Centro de acogida
+    details: Åssiden videregående skole (Drammen) — departamento de Informasjonsteknologi og medieproduksjon (IM).
+  - icon: 🏫
+    title: Centro de origen
+    details: CEEDCV — Centro Específico de Educación a Distancia de la Comunidad Valenciana.
+  - icon: 🔍
+    title: Job Shadowing
+    details: Observación de metodologías activas, ABP y trabajo colaborativo en el aula técnica noruega.
+  - icon: ⚖️
+    title: Presencial vs. distancia
+    details: Contraste de estrategias de motivación, retención y evaluación adaptables a la enseñanza online.
+  - icon: 💼
+    title: Prospección FCT
+    details: Contacto con empresas TIC de Drammen para futuras prácticas del alumnado en Noruega.
+  - icon: 🌍
+    title: Dimensión europea
+    details: Consolidar la relación institucional y abrir vías de colaboración Erasmus+ estables.
 ---

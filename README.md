@@ -1,84 +1,75 @@
-# 📚 EduPress — Plantilla Educativa para VitePress
+# 🇳🇴 Job Shadowing en Noruega — Proyecto de Trabajo Erasmus+
 
-**Crea cursos y temarios online en Markdown, con diapositivas, ejercicios y colores corporativos.**  
-Diseñada para docentes: sin frameworks complejos, sin base de datos, desplegable en GitHub Pages.
+Sitio web del **Proyecto de Trabajo** de la movilidad Erasmus+ (*Job Shadowing*) del
+**CEEDCV** en el **Åssiden videregående skole** (Drammen, Noruega).
 
----
-
-## [Demo](https://ggedu.github.io/EduPress/)
-
----
-
-## 🔄 Elige tu camino
-
-| ¿Qué necesitas? | Guía |
-|---|---|
-| Un solo módulo o asignatura | → [Crear un curso único](https://ggedu.github.io/EduPress/general/contenidos/4-curso-unico) |
-| Varios módulos o unidades didácticas | → [Crear un curso modular](https://ggedu.github.io/EduPress/general/contenidos/5-curso-modular) |
-
-## ¿Qué incluye?
-
-- **Motor Markdown enriquecido** — Bloques informativos (`info-box`, `warning-box`, `tip-box`...), pestañas, diagramas Mermaid, imágenes centradas.
-- **Sistema de presentaciones** — Diapositivas full-screen nativas desde Markdown con `SlidesViewer` y lightbox con zoom.
-- **Ejercicios gamificados (parallax)** — Diseño visual tipo storytelling con imágenes de fondo en scroll.
-- **Enunciados estándar** — Modelo Markdown limpio para ejercicios estructurados con criterios de evaluación.
-- **Módulos / Unidades** — Soporte para módulo único o múltiples unidades (UD1, UD2, UD3...).
-- **Identidad institucional** — Logos, colores corporativos y modo claro/oscuro configurables.
-- **Configuración centralizada** — Toda la personalización (colores, logos, navegación, URL base) se concentra en la carpeta `src/.vitepress/config/`. Sin necesidad de editar CSS ni buscar ajustes dispersos por el proyecto.
-- **Despliegue en GitHub Pages** — Build estático listo para publicar.
-- **Docker opcional** — No se instala automáticamente. Requiere Docker instalado previamente si se usa.
+Construido con [VitePress](https://vitepress.dev/) a partir de la plantilla
+[EduPress](https://github.com/GGEdu/EduPress) y publicado en GitHub Pages.
 
 ---
 
-## Inicio rápido
+## 🔗 Acceso web
 
-### Requisitos
+**https://ggedu.github.io/Job-Shadowing-Noruega/**
 
-- Node.js 16+ y npm 8+
-- Git
-- *(Opcional)* Docker + Docker Compose
+---
 
-### Instalación
+## 📑 Contenido del proyecto
+
+| Apartado | Archivo |
+|----------|---------|
+| Presentación | `src/proyecto/index.md` |
+| 1. Datos generales de la movilidad | `src/proyecto/contenidos/1-datos-generales.md` |
+| 2. Motivos y justificación | `src/proyecto/contenidos/2-motivos-justificacion.md` |
+| 3. Objetivos y expectativas | `src/proyecto/contenidos/3-objetivos-expectativas.md` |
+| 4. Plan de trabajo y actividades | `src/proyecto/contenidos/4-plan-de-trabajo.md` |
+| 5. Prospección de empresas (FCT) | `src/proyecto/contenidos/5-prospeccion-fct.md` |
+| 6. Impacto y difusión esperada | `src/proyecto/contenidos/6-impacto-difusion.md` |
+
+---
+
+## 🚀 Desarrollo local
 
 ```bash
-git clone https://github.com/GGEdu/EduPress.git
-cd EduPress
 npm install
+npm run docs:dev      # → http://localhost:5173/Job-Shadowing-Noruega/
 ```
 
-### Arrancar
+Otros comandos:
 
 ```bash
-./start-project.sh          # Inicia servidor de desarrollo
-./status-project.sh         # Ver URL de acceso
-./stop-project.sh           # Detener
-```
-
-O directamente:
-
-```bash
-npm run docs:dev            # → http://localhost:5173/EduPress/
+npm run docs:build    # genera el sitio estático en docs/
+npm run docs:preview  # sirve la build local
 ```
 
 ---
 
-## Personalización rápida
+## 🌐 Despliegue en GitHub Pages
 
-Todos los ajustes se hacen en los 4 archivos de `src/.vitepress/config/`:
+El repositorio incluye el workflow `.github/workflows/deploy.yml`. Un `push` a la
+rama `main` compila el sitio y lo publica automáticamente.
+
+Requisito en GitHub: **Settings → Pages → Build and deployment → Source: GitHub Actions**.
+
+---
+
+## ⚙️ Personalización
+
+Toda la configuración del sitio vive en `src/.vitepress/config/`:
 
 | Archivo | Qué configura |
 |---------|---------------|
-| `config/project.ts` | URL base, idioma, redes sociales, copyright |
-| `config/colors.ts` | Selección de tema, colores corporativos y tipografía |
-| `config/logos.ts` | Rutas de logos, alturas y modo claro/oscuro |
-| `config/units.ts` | Módulos/unidades activas, navbar y sidebar |
+| `project.ts` | URL base (`basePath`), idioma, descripción, copyright, licencia |
+| `colors.ts` | Paleta activa (actualmente *navy-naranja*) |
+| `logos.ts` | Logos institucionales y modo claro/oscuro |
+| `units.ts` | Secciones, navbar y sidebar |
+
+> **Sustituir los logos:** reemplaza los archivos `src/public/img/logo.png` y
+> `logo-dark.png` (navbar) por los logos definitivos del CEEDCV / Erasmus+ cuando
+> estén disponibles.
 
 ---
 
-## Licencia
+## 🙏 Créditos
 
-MIT — Libre para uso educativo.
-
----
-
-**Diseñado para la comunidad educativa** — Simplificando la creación de contenido didáctico digital.
+Plantilla base: **EduPress** de [GGEdu](https://github.com/GGEdu) (licencia MIT).

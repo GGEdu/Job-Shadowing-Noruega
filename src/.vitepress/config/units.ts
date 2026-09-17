@@ -36,9 +36,14 @@ import type { NavGroup } from '../shared/navigation'
 const baseNavbar: DefaultTheme.NavItem[] = [
   { text: '🏠 Inicio', link: '/' },
   {
-    text: '📚 Unidades',
+    text: '📋 Secciones',
     items: [
-      { text: 'General', link: '/index' },
+      { text: '1. Datos generales', link: '/contenidos/1-datos-generales' },
+      { text: '2. Motivos y justificación', link: '/contenidos/2-motivos-justificacion' },
+      { text: '3. Objetivos y expectativas', link: '/contenidos/3-objetivos-expectativas' },
+      { text: '4. Plan de trabajo', link: '/contenidos/4-plan-de-trabajo' },
+      { text: '5. Prospección de empresas (FCT)', link: '/contenidos/5-prospeccion-fct' },
+      { text: '6. Impacto y difusión', link: '/contenidos/6-impacto-difusion' },
     ]
   },
 ]
@@ -46,70 +51,36 @@ const baseNavbar: DefaultTheme.NavItem[] = [
 // --- Sidebar de la unidad principal ---
 const baseSidebar: DefaultTheme.SidebarItem[] = [
   {
-    text: '📚 Primeros pasos',
+    text: '📋 El proyecto',
     collapsed: false,
     items: [
-      { text: 'Introducción', link: '/contenidos/1-introduccion' },
-      { text: 'Instalación y Arranque', link: '/contenidos/2-instalacion' },
-      { text: 'Estructura del Proyecto', link: '/contenidos/3-estructura' },
+      { text: 'Presentación', link: '/' },
+      { text: '1. Datos generales', link: '/contenidos/1-datos-generales' },
     ]
   },
   {
-    text: '🛠️ Configura tu curso',
+    text: '🎯 Justificación',
     collapsed: false,
     items: [
-      { text: 'Curso único', link: '/contenidos/4-curso-unico' },
-      { text: 'Curso modular', link: '/contenidos/5-curso-modular' },
-      { text: 'Configuración e Identidad', link: '/contenidos/6-configuracion' },
+      { text: '2. Motivos y justificación', link: '/contenidos/2-motivos-justificacion' },
+      { text: '3. Objetivos y expectativas', link: '/contenidos/3-objetivos-expectativas' },
     ]
   },
   {
-    text: '✍️ Crea contenidos',
+    text: '🗺️ Desarrollo de la movilidad',
     collapsed: false,
     items: [
-      { text: 'Crear Contenidos', link: '/contenidos/7-crear-contenidos' },
-      { text: 'Catálogo de Componentes', link: '/contenidos/8-componentes' },
+      { text: '4. Plan de trabajo', link: '/contenidos/4-plan-de-trabajo' },
+      { text: '5. Prospección de empresas (FCT)', link: '/contenidos/5-prospeccion-fct' },
     ]
   },
   {
-    text: '🎞️ Diapositivas e Imágenes',
-    collapsed: true,
+    text: '📣 Resultados',
+    collapsed: false,
     items: [
-      { text: 'Crear Diapositivas', link: '/contenidos/9-diapositivas' },
-      { text: 'Catálogo de Patrones', link: '/contenidos/10-diapositivas-demo' },
-      { text: 'Imágenes para Contenido', link: '/contenidos/11-imagenes' },
+      { text: '6. Impacto y difusión', link: '/contenidos/6-impacto-difusion' },
     ]
   },
-  {
-    text: '🌐 Publicación',
-    collapsed: true,
-    items: [
-      { text: 'Despliegue', link: '/contenidos/12-despliegue' },
-      { text: 'Privacidad y Acceso', link: '/contenidos/14-privacidad-acceso' },
-    ]
-  },
-  {
-    text: '📖Ejemplos',
-    collapsed: true,
-    items: [
-      { text: 'Guia del curso', link: '/contenidos/13-ejemplo-guia' },
-    ]
-  },
-  {
-    text: '🗂️ Ejercicios',
-    collapsed: true,
-    items: [
-      { text: 'Introducción', link: '/ejercicios/' },
-      { text: 'Imágenes en Ejercicios', link: '/ejercicios/imagenes-ejercicios' },
-      {
-        text: 'Ejemplos',
-        items: [
-          { text: 'Historia gamificada (parallax)', link: '/ejercicios/ejercicio' },
-          { text: 'Enunciado directo (Markdown)', link: '/ejercicios/enunciado' },
-        ]
-      }
-    ]
-  }
 ]
 
 // ============================================================================
@@ -155,22 +126,19 @@ export const UNITS: Record<string, UnitConfig> = {
   },
 
   // ──────────────────────────────────────────────────────────────────────────
-  // Módulo / Unidad principal del curso.
+  // Unidad principal: Proyecto de Trabajo (Job Shadowing Noruega).
   // Personaliza: title, fullTitle, siteTitle, y los ítems de navbar/sidebar.
   // ──────────────────────────────────────────────────────────────────────────
-  MODULO: {
-    id: 'MODULO',
-    code: 'general',    // → archivos en src/general/
-    title: 'Modulo General',
-    fullTitle: 'Modulo General - Fundamentos',
-    siteTitle: 'Modulo</br>General',
-    icon: '📘',
+  PROYECTO: {
+    id: 'PROYECTO',
+    code: 'proyecto',    // → archivos en src/proyecto/
+    title: 'Job Shadowing Noruega',
+    fullTitle: 'Job Shadowing en Åssiden videregående skole (Noruega) — Erasmus+',
+    siteTitle: 'Job Shadowing</br>Noruega',
+    icon: '🇳🇴',
     navbar: baseNavbar,
     sidebar: baseSidebar
   },
-
-  // Para añadir más unidades, consulta la guía completa con ejemplos en:
-  // src/general/contenidos/4-modulos.md
 
 }
 
