@@ -5,6 +5,10 @@ hero:
   name: "Job Shadowing"
   text: "Åssiden videregående skole · Noruega"
   tagline: "Proyecto de Trabajo Erasmus+ del CEEDCV — observación docente, contraste metodológico y prospección de empresas TIC en Drammen."
+  image:
+    light: /img/logo.png
+    dark: /img/logo-dark.png
+    alt: Logo del proyecto Job Shadowing Noruega
   actions:
     - theme: brand
       text: Ver el proyecto →
