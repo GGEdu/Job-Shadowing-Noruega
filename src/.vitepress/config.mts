@@ -339,7 +339,9 @@ export default defineConfig({
     logoBranding,
     unitNavbars,
     sidebar: sidebar,
-    footer: { copyright: PROJECT.copyright },
+    // footer nativo desactivado: el copyright lo muestra FooterLogo.vue (layout-bottom)
+    // para evitar que aparezca duplicado en la home.
+    copyright: PROJECT.copyright,
     license: PROJECT.license,
     printWatermark: PROJECT.printWatermark
   } as any
