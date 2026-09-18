@@ -19,12 +19,12 @@ hero:
 
 features:
   - icon:
-      src: /img/logo-aassiden.jpg
+      src: /img/logo-aassiden.png
       alt: Logo de Åssiden videregående skole
     title: Centro de acogida
     details: Åssiden videregående skole (Drammen) — departamento de Informasjonsteknologi og medieproduksjon (IM).
   - icon:
-      src: /img/logo-ceed.jpg
+      src: /img/logo-ceed.png
       alt: Logo del CEEDCV
     title: Centro de origen
     details: CEEDCV — Centro Específico de Educación a Distancia de la Comunidad Valenciana.
