@@ -47,6 +47,7 @@ const baseNavbar: DefaultTheme.NavItem[] = [
       { text: '7. Impacto y difusión', link: '/contenidos/7-impacto-difusion' },
     ]
   },
+  { text: '🎞️ Diapositivas', link: '/diapositivas' },
 ]
 
 // --- Sidebar de la unidad principal ---
@@ -56,6 +57,7 @@ const baseSidebar: DefaultTheme.SidebarItem[] = [
     collapsed: false,
     items: [
       { text: 'Presentación', link: '/' },
+      { text: '🎞️ Diapositivas', link: '/diapositivas' },
       { text: '1. Datos generales', link: '/contenidos/1-datos-generales' },
     ]
   },
@@ -81,6 +83,13 @@ const baseSidebar: DefaultTheme.SidebarItem[] = [
     collapsed: false,
     items: [
       { text: '7. Impacto y difusión', link: '/contenidos/7-impacto-difusion' },
+    ]
+  },
+  {
+    text: '🎞️ Presentación',
+    collapsed: false,
+    items: [
+      { text: 'Diapositivas del proyecto', link: '/diapositivas' },
     ]
   },
 ]
