@@ -39,4 +39,4 @@ Fotografía profesional realista de una reunión de trabajo cordial en la oficin
 - **Aspect ratio:** 16:9 (las diapositivas las muestran panorámicas).
 - **Post-procesado:** si las caras salen deformadas, regenerar con `--no text, distorted faces` o similar.
 - **Consistencia:** usar la misma semilla o referencia de estilo entre las tres para que compartan paleta.
-- Tras generarlas, colocarlas en `src/public/img/slides/` con los nombres exactos de arriba — las rutas de [diapositivas.md](src/proyecto/diapositivas.md) ya apuntan ahí.
+- Tras generarlas, colocarlas en `src/public/img/slides/` con los nombres exactos de arriba — las rutas de la [presentación](./) ya apuntan ahí.
