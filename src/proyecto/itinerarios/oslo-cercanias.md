@@ -5,6 +5,8 @@
 > **Versión revisada el martes 13 de octubre de 2026**, con precios y horarios consultados ese día. Cambios respecto a la versión anterior: dormimos en Oslo el viernes y el sábado, gestionamos las tres maletas de 23 kg con consigna, adaptamos las visitas a la nieve caída desde el día 10 y tenemos en cuenta la huelga de maquinistas de Vy.
 >
 > Todos los precios están **por persona** y en coronas noruegas (NOK), con su equivalencia en euros a **1 € = 10,70 NOK** (cambio de referencia del BCE del 12/10/2026). El presupuesto detallado está en la hoja [presupuesto-viaje-noruega.xlsx](./presupuesto-viaje-noruega.xlsx).
+>
+> Las tardes en Drammen y las excursiones de un día (Fredrikstad, Oslo, Lillehammer…) están en [drammen-y-excursiones.md](./drammen-y-excursiones.md).
 
 ## 🏠 Alojamientos
 
@@ -205,6 +207,7 @@ Paseo corto y llano, todo a 5–10 minutos a pie de Oslo S. **Gratis.**
 - 🎭 **[Ópera de Oslo](https://operaen.no/en/):** subir al tejado si está seco (con hielo o lluvia, mejor verla desde abajo).
 - 🖼️ **Exterior del MUNCH.**
 - 🌊 **Paseo por el puerto de Bjørvika.**
+- 📚 **[Deichman Bjørvika](https://deichman.no/):** la biblioteca pública, al lado de la Ópera. Entrada gratis; las opiniones destacan las vistas desde las plantas altas. Buen refugio si llueve (horario sin confirmar).
 
 ## 16:00–17:00 — Recoger maletas y check-in en la casa
 
@@ -345,6 +348,10 @@ Interesante por sus murales y porque aquí se entrega el **Premio Nobel de la Pa
 
 **1–1,25 horas**
 
+### Si hace mucho frío: Museo de la Resistencia
+
+Dentro de la fortaleza está el **Norges Hjemmefrontmuseum**, sobre la ocupación nazi y la resistencia noruega (1940–1945): la misma historia que el sabotaje de Vemork. **~160 NOK · 15 €**; abre de 10:00 a 16:00 (horario y precio sin fecha, según Visit Oslo). Con una hora basta; se resta del paseo por el centro.
+
 ---
 
 # 🚶 16:00–18:15 — Centro de Oslo
@@ -376,6 +383,8 @@ Lo que el antiguo itinerario dejaba para el domingo por la tarde lo hacemos hoy,
 ## 19:30 — Cena
 
 **~280–420 NOK por persona.**
+
+Si os apetece ambiente: el **Oslo Oktoberfest** está en Youngstorget del 14 al 17 de octubre (el sábado abre a las 12:00; mayores de 20 años) ([información](https://aktivioslo.no/hva-skjer-i-oslo/oktoberfest/)). El concierto de Bob Dylan de esa noche en el Oslo Spektrum está agotado.
 
 ---
 
@@ -469,13 +478,15 @@ La panorámica de Oslo y el fiordo con nieve puede ser **el plato fuerte del via
 
 ---
 
-## 🍽️ 14:15–15:00 — Comida
+## 🍽️ 14:15–15:15 — Comida en Frognerseteren
 
-Algo rápido en Holmenkollen o de vuelta en el centro. **~120–220 NOK por persona.**
+Unas paradas más arriba en la **misma línea 1 de metro** (incluida en el billete de 24 h) está **[Frognerseteren](https://frognerseteren.no/)**, el restaurante de madera más famoso de Oslo, conocido por su **tarta de manzana** y sus vistas sobre la ciudad y el fiordo. El domingo abre de **11:00 a 21:00**. Precio sin confirmar; contad con algo más que una comida rápida (**~200–250 NOK**).
+
+Si hay niebla o vais justos de tiempo: algo rápido en Holmenkollen o de vuelta en el centro (**~120–220 NOK**).
 
 ---
 
-## 🌊 15:00–16:30 — Regreso al centro + último paseo
+## 🌊 15:15–16:30 — Regreso al centro + último paseo
 
 Metro de vuelta (incluido en el billete de 24 h). Si queda tiempo y energía: café en **Aker Brygge / Tjuvholmen** (**50–65 NOK**).
 
@@ -493,6 +504,7 @@ Metro de vuelta (incluido en el billete de 24 h). Si queda tiempo y energía: ca
 
 - **Tollbugata 10–12**, a 2–5 minutos a pie de Drammen stasjon.
 - Check-in desde las **16:00**.
+- Si se os olvida algo: el **Joker de la estación de Drammen** abre en domingo (horario sin confirmar). No contéis con él para la compra principal.
 
 ## 19:30 — Cena (comprada el sábado)
 
@@ -556,6 +568,17 @@ Para llegar: **autobús 30** desde el centro, incluido en el billete de 24 h. El
 | **Combinada FRAM + Kon-Tiki** | **325 NOK · 30 €** |
 
 La entrada combinada se vende en las taquillas de los museos ([FRAM — precios](https://frammuseum.no/en/plan-your-visit/)).
+
+## ⛪ Variante: Norsk Folkemuseum en lugar del Kon-Tiki
+
+Si queréis ver una **iglesia de madera** (*stavkirke*), esta es la única oportunidad realista del viaje: la de Heddal ya ha cerrado la temporada y está lejos. El **[Norsk Folkemuseum](https://norskfolkemuseum.no/en/plan-your-visit)**, a 10 minutos a pie del FRAM en Bygdøy, tiene la **iglesia de Gol**, de hacia el año 1200, entre más de un centenar de casas tradicionales.
+
+- Desde el 5 de octubre: **de martes a domingo, 11:00–16:00**. Adulto: **200 NOK · 19 €**.
+- En temporada baja algunos edificios no se pueden visitar por dentro. **Confirmar si la iglesia de Gol está abierta** (post@norskfolkemuseum.no, +47 22 12 37 00).
+- Parada del bus 30: «Folkemuseet».
+- FRAM (180) + Folkemuseum (200) = **380 NOK**, 55 NOK más que la combinada FRAM + Kon-Tiki.
+
+> No lo confundáis con el Museo de los Barcos Vikingos, también en Bygdøy: **está cerrado hasta 2027**.
 
 ## 🚍 15:00–15:30 — Regreso al centro
 
@@ -648,9 +671,12 @@ Aunque NOAA marque Kp 7, con el cielo cubierto no veremos nada. Mirar la nubosid
 
 ## OPCIONAL — NO OBLIGATORIA
 
-No la incluiría como parte fija del itinerario. Solo si hace buen tiempo, os apetece, tenéis energía y encontráis una sesión compatible con el horario.
+En Oslo no la incluiría en el fin de semana:
 
-No es necesario hacer sauna + baño en el fiordo para "haber vivido Noruega". Con la nieve de estos días, todavía menos.
+- La sauna flotante **SALT** está **cerrada temporalmente** ([web](https://www.salted.no/)).
+- **Oslo Badstuforening** funciona con socios (alta: 400 NOK; sesión ~260 NOK según terceros) ([web](https://oslobadstuforening.no/)). No compensa para un fin de semana.
+
+**La sauna la haremos en Drammen**: **[Ælvebadstua](https://elvebadstua.no/)**, sauna de leña junto al río, abre **todos los días de 06:00 a 22:00**; una sesión libre de 1 h 15 min cuesta **225 NOK · 21 €**. Encaja cualquier tarde después del instituto (ver [drammen-y-excursiones.md](./drammen-y-excursiones.md)).
 
 ---
 
@@ -823,7 +849,7 @@ Noruega forma parte del **Espacio Económico Europeo**, así que el roaming de D
 ↓  
 🎿 **Holmenkollen**
 ↓  
-🍽️ Comida
+🍽️ Comida en **Frognerseteren**
 ↓  
 🌊 **Aker Brygge** (si da tiempo)
 ↓  
