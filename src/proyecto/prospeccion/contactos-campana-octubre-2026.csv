@@ -1,0 +1,57 @@
+ola,prioridad,plantilla,organizacion,email,cc,ciudad,personalizacion
+1,A,A,Abacus-IT (Drammen),support@abacus-it.no,,Drammen,"learn how your Drammen office combines software development, business systems and infrastructure"
+1,A,A,Cloud Connection AS,kunde@cloudconnection.no,,Drammen,see how your team builds and operates cloud and software solutions
+1,A,A,ECIT Solutions AS,hei@ecit.no,,Drammen,"learn how your Drammen team develops and runs business software, and how you work with IT apprentices"
+1,A,A,ON Property AS,post@on.no,,Drammen,see how you develop and maintain your own software product
+1,A,A,Vokser / Itumx AS,support@itumx.no,,Kongsberg,learn how you design and build digital experiences in the Kongsberg technology cluster
+1,A,A,Maksimer,post@maksimer.no,,Oslo,see how you build e-commerce solutions with WooCommerce and WordPress
+1,A,A,Ramsalt Lab,firmapost@ramsalt.com,,Oslo,see how you build and maintain Drupal (PHP) websites
+1,A,A,Represent,hello@represent.no,,Oslo,see how you build headless e-commerce websites with Next.js and Vue/Nuxt
+1,A,A,Skalar AS,kontakt@skalar.no,,Oslo,learn how you build custom digital products with React and JavaScript
+1,A,A,Statnett,laerling@statnett.no,,Oslo,learn how your IT apprenticeship programme (IT-utvikler) works
+1,A,B,Næringsforeningen i Drammensregionen (NFDR),post@nfdr.no,,Drammen,share our request with member IT companies in the Drammen region
+1,A,B,Kongsberg Næringsforum,post@knf.kongsberg.no,,Kongsberg,share our request with technology companies in Kongsberg
+1,A,B,AOF Opplæringskontor,aofok@aofok.no,,Oslo,learn how a training office organises IT apprenticeships and which companies host IT apprentices
+1,A,B,Oslo Innovation Week,hey@oiw.no,,Oslo,tell us which Oslo Innovation Week events (19–22 October) are open to international visitors and could connect us with tech companies
+1,A,C,USN — Relaciones Internacionales,international@usn.no,educ@usn.no,Drammen,
+1,A,C,"OsloMet — Facultad de Educación (LUI), internacional",international-lui@oslomet.no,lisebakke.brondbo@oslomet.no,Oslo,
+1,A,C,UiO — Cooperation in education,cooperation-edu@uio.no,post@link.uio.no,Oslo,
+1,B,A,Bekk,hei@bekk.no,,Oslo,learn how your teams build digital products and how you work with students
+1,B,A,Kantega,erland.rustebakke@kantega.no,,Oslo,learn how your Oslo office works and about your summer projects with student teams
+1,B,A,Netlight,info@netlight.no,,Oslo,learn how your consultants work and how you have engaged with students
+2,B,A,Addovation AS,sales@addovation.com,,Drammen,learn how you build integrations and business applications on Microsoft and ERP platforms
+2,B,A,Gapit Nordics AS,sales@gapit.io,,Drammen,see how you build real-time dashboards and monitoring software
+2,B,A,Peritus AS (ECIT Peritus),salg@peritus.no,,Drammen,learn how you work with Microsoft Dynamics and ERP integrations
+2,B,A,Wingmen (Friday Networks Drammen AS),info@wingmen.no,,Drammen,"see how you run networks, security and cloud services for your clients"
+2,B,A,Appsalon,hello@appsalon.no,,Oslo,see how you build Shopify Plus solutions and B2B integrations
+2,B,A,Arribatec,info@arribatec.com,,Oslo,learn about your IT-utvikler apprenticeships and how your developers work
+2,B,A,Bakken & Bæck,hello@bakkenbaeck.com,,Oslo,learn how your Oslo studio designs and builds digital products
+2,B,A,Enonic,hello@enonic.com,,Oslo,learn how you develop your CMS platform and how clients build headless front ends on it
+2,B,A,Increo (grupo 99x),hei@increo.no,,Oslo,learn how you develop custom digital solutions
+2,B,A,Mediabooster,post@mediabooster.no,,Oslo,learn how you build custom websites and portals
+2,B,A,Nettfokus,post@nettfokus.no,,Oslo,"see how you build websites, online shops and CRM solutions"
+2,B,B,Buskerud fylkeskommune,post@bfk.no,,Drammen,put us in touch with the person in charge of IT apprenticeships in Buskerud
+2,B,B,Drammen kommune,kommunepost@drammen.kommune.no,,Drammen,"learn how the municipality, as an approved training company, hosts IT apprentices"
+2,B,B,Abelia (NHO),post@abelia.no,,Oslo,share our request with member technology companies interested in international students
+2,B,B,Hellerud vgs (instituto de FP),postmottak.hellerud.vgs@osloskolen.no,,Oslo,compare how an Oslo upper secondary school teaches IT vocational programmes
+2,B,B,Oslo Science Park (Forskningsparken),post@forskningsparken.no,,Oslo,put us in touch with technology companies and startups at the park that might welcome a short visit
+2,B,C,UiO — Facultad de Ciencias de la Educación (UV),postmottak@uv.uio.no,,Oslo,
+2,C,A,Luminus AS,post@luminus.no,,Drammen,learn how a web agency works day to day
+2,C,A,NetSolution Buskerud/Viken AS,post@netsolution.no,,Drammen,learn how you support the IT of small and medium businesses in the region
+2,C,A,A2N (CoreTrek),info@coretrek.no,,Oslo,learn how you build WordPress websites
+2,C,A,ANTI,osl@anti.as,,Oslo,"see how a creative agency builds websites, apps and online shops"
+2,C,A,Computas,contact@computas.com,,Oslo,learn how you build IT solutions for the public and private sector
+2,C,A,Fink,hei@fink.no,,Oslo,learn how your developers and designers work together
+2,C,A,Frontkom,carlfredrik.sandaker@frontkom.com,,Oslo,learn how your Oslo team works on digital projects
+2,C,A,Halogen,hei@halogen.no,,Oslo,learn how you design digital services for the public sector
+2,C,A,Heydays,studio@heydays.no,,Oslo,learn how you design brands and digital products
+2,C,A,Iterate,mail@iterate.no,,Oslo,learn how you build products and work with developers
+2,C,A,Knowit,post@knowit.no,,Oslo,learn how your development teams work
+2,C,A,Kodeworks,post@kodeworks.no,,Oslo,learn how your developers work with clients
+2,C,A,M51 Marketing,kontakt@m51.no,,Oslo,"see how you build websites and online shops with WordPress, Shopify and Sanity"
+2,C,A,Miles,marius.torgersen@miles.no,,Oslo,learn how your Oslo consultants work
+2,C,A,Sopra Steria Norge,firmapost.no@soprasteria.com,,Oslo,learn how your graduates and developers start and grow in the company
+2,C,A,Variant,post@variant.no,,Oslo,learn how your consultants work day to day
+2,C,A,Yttr AS (antes Shortcut),sales@yttr.ai,,Oslo,learn how you build mobile apps and their backends
+2,C,B,Oslo&Co (antes Oslo Business Region),digital@osloandco.no,,Oslo,point us to Oslo technology companies open to international students
+2,C,B,StartupLab,hello@startuplab.no,,Oslo,put us in touch with startups that might welcome a short visit

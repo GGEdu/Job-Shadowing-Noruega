@@ -134,6 +134,7 @@ Es la opción **más segura y más barata**: hay trenes cada 15 minutos, todo es
 ### Planes de tarde-noche en Oslo esa semana
 
 - 🎻 **Jueves 22, 19:00 — Filarmónica de Oslo**: Prokófiev, Ravel (con Bertrand Chamayou al piano) y *Petrushka* de Stravinski, dirigidos por Vasily Petrenko ([programa](https://aktivioslo.no/hva-skjer-i-oslo/oslo-filharmonien-prokofjev-ravel-og-stravinskij/)). Precio no confirmado. Último tren a Drammen después del concierto: comprobarlo.
+- 💡 **Oslo Innovation Week** (19–22 de octubre): eventos de tecnología e innovación por toda la ciudad, muchos gratuitos. Buena forma de conocer empresas ([oiw.no](https://oiw.no/)). Les hemos escrito para preguntar qué eventos están abiertos a visitantes (ver la [campaña de correos](../prospeccion/campana-correos-octubre-2026.md)).
 - 🍺 **Oslo Oktoberfest** en Youngstorget: del 22 al 24 de octubre (el jueves abre a las 16:00; viernes y sábado, mayores de 20 años) ([información](https://aktivioslo.no/hva-skjer-i-oslo/oktoberfest/)).
 
 ---

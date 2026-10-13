@@ -4,7 +4,7 @@
 
 > **Versión revisada el martes 13 de octubre de 2026**, con precios y horarios consultados ese día. Cambios respecto a la versión anterior: dormimos en Oslo el viernes y el sábado, gestionamos las tres maletas de 23 kg con consigna, adaptamos las visitas a la nieve caída desde el día 10 y tenemos en cuenta la huelga de maquinistas de Vy.
 >
-> Todos los precios están **por persona** y en coronas noruegas (NOK), con su equivalencia en euros a **1 € = 10,70 NOK** (cambio de referencia del BCE del 12/10/2026). El presupuesto detallado está en la hoja [presupuesto-viaje-noruega.xlsx](./presupuesto-viaje-noruega.xlsx).
+> Todos los precios están **por persona** y en coronas noruegas (NOK), con su equivalencia en euros a **1 € = 10,70 NOK** (cambio de referencia del BCE del 12/10/2026). El presupuesto detallado está en la hoja `presupuesto-viaje-noruega.xlsx`, en esta misma carpeta del repositorio.
 >
 > Las tardes en Drammen y las excursiones de un día (Fredrikstad, Oslo, Lillehammer…) están en [drammen-y-excursiones.md](./drammen-y-excursiones.md).
 

@@ -52,11 +52,15 @@ Drammen y Oslo están excelentemente comunicadas y funcionan casi como un **áre
 
 | Empresa | Ubicación (Drammen) | Email de contacto |
 |---------|---------------------|-------------------|
-| **Atea Drammen** | Grønland 61, 3045 Drammen | *(a consultar / formulario web)* |
+| **Atea Drammen** | Grønland 61, 3045 Drammen | *(sin correo publicado; tel. 22 09 50 00)* |
 | **Addovation AS** | Engene 22, 3015 Drammen | `sales@addovation.com` |
-| **Gapit Nordics AS** | Ingeniør Rybergs gate 99, 3027 Drammen | `hello@gapit.io` · `sales@gapit.io` |
-| **Cloud Connection AS** | Nedre Strandgate 80, 3012 Drammen | *(a consultar)* |
-| **Index Development** | Cappelens gate 27, 3015 Drammen | *(a consultar)* |
+| **Gapit Nordics AS** | Ingeniør Rybergs gate 99, 3027 Drammen | `sales@gapit.io` |
+| **Cloud Connection AS** | Nedre Strandgate 80, 3012 Drammen | `kunde@cloudconnection.no` |
+| **Index Development** | Cappelens gate 27, 3015 Drammen | *(sin contacto publicado)* |
+
+::: tip-box Campaña de octubre de 2026
+La lista ampliada de empresas de Drammen, Kongsberg y Oslo, con sus correos publicados, las plantillas y el plan de envío, está en [Campaña de correos — visitas a empresas](../prospeccion/campana-correos-octubre-2026.md).
+:::
 
 ### Fichas detalladas
 
@@ -65,7 +69,7 @@ Drammen y Oslo están excelentemente comunicadas y funcionan casi como un **áre
 | Campo | Detalle |
 |-------|---------|
 | 📍 **Ubicación** | Grønland 61, 3045 Drammen |
-| ✉️ **Contacto** | A consultar / formulario web |
+| ✉️ **Contacto** | Sin correo publicado · tel. 22 09 50 00 |
 | 🏢 **Descripción** | Sucursal de una de las mayores empresas de infraestructura y consultoría TI de los países nórdicos. |
 | 🎓 **Relación con el ciclo** | Redes, administración de sistemas, ciberseguridad e infraestructura. |
 | ⭐ **Ventajas (FCT)** | Al ser una gran corporación, tiene capacidad estructural para acoger alumnado en prácticas, ofreciéndole contacto con arquitecturas empresariales a gran escala. |
@@ -85,7 +89,7 @@ Drammen y Oslo están excelentemente comunicadas y funcionan casi como un **áre
 | Campo | Detalle |
 |-------|---------|
 | 📍 **Ubicación** | Ingeniør Rybergs gate 99, 3027 Drammen |
-| ✉️ **Contacto** | `hello@gapit.io` · `sales@gapit.io` |
+| ✉️ **Contacto** | `sales@gapit.io` |
 | 🏢 **Descripción** | Especialistas en recopilación de datos de infraestructuras industriales, visualización y monitorización. |
 | 🎓 **Relación con el ciclo** | Arquitecturas de datos, IoT y cuadros de mando interactivos. |
 | ⭐ **Ventajas (FCT)** | Empresa muy innovadora. Ideal para estudiantes motivados por la intersección entre la administración de sistemas avanzados y el análisis/visualización de métricas. |
@@ -95,7 +99,7 @@ Drammen y Oslo están excelentemente comunicadas y funcionan casi como un **áre
 | Campo | Detalle |
 |-------|---------|
 | 📍 **Ubicación** | Nedre Strandgate 80, 3012 Drammen |
-| ✉️ **Contacto** | A consultar |
+| ✉️ **Contacto** | `kunde@cloudconnection.no` |
 | 🏢 **Descripción** | Proveedor de servicios gestionados de TI, soporte y migraciones a la nube (*cloud*) para empresas de la región. |
 | 🎓 **Relación con el ciclo** | Despliegue de servicios web, virtualización y tecnologías *cloud*. |
 | ⭐ **Ventajas (FCT)** | Encaje perfecto para perfiles de sistemas puros. El alumnado podría aprender sobre migraciones *cloud*, copias de seguridad (*backups*) y automatización de servidores. |
@@ -105,7 +109,7 @@ Drammen y Oslo están excelentemente comunicadas y funcionan casi como un **áre
 | Campo | Detalle |
 |-------|---------|
 | 📍 **Ubicación** | Cappelens gate 27, 3015 Drammen |
-| ✉️ **Contacto** | A consultar |
+| ✉️ **Contacto** | Sin contacto publicado (no consta como sociedad anónima) |
 | 🏢 **Descripción** | Agencia orientada a la creación de herramientas digitales y desarrollo de software a medida. |
 | 🎓 **Relación con el ciclo** | Desarrollo de Aplicaciones Web puro (*frontend* y entorno servidor). |
 | ⭐ **Ventajas (FCT)** | Conexión directa y total con nuestras especialidades docentes. Permite al alumnado involucrarse en el ciclo de vida completo de una aplicación web, desde el código hasta la entrega. |
