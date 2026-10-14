@@ -80,7 +80,7 @@ Noruega y España están en la misma zona horaria (UTC+2 hasta el 25 de octubre)
 - **Filtrad el CSV por la columna `correo`** y enviad cada grupo por separado, con su asunto:
   - Docente de Drammen: `1 · Empresas Drammen` y `B · Organismos Drammen`.
   - Docente de Oslo: `2 · Empresas Oslo` y `B · Organismos Oslo`.
-- Campos: `{organizacion}` en el saludo y `{personalizacion}` en el correo de organismos.
+- Los textos no llevan campos que rellenar: la combinación de correspondencia solo sirve para que **cada correo salga con un único destinatario**. Si no la tenéis, copiad y pegad el texto y enviadlo dirección por dirección.
 - **Las universidades, a mano**: son tres correos y llevan copia.
 
 > **Sobre la legalidad:** la ley noruega de marketing (*markedsføringsloven*, § 15) prohíbe enviar publicidad por correo a particulares sin consentimiento. Esto no es publicidad: es una petición de visita, dirigida casi siempre a buzones genéricos publicados por las propias empresas. Aun así, enviad cada correo por separado.
@@ -89,16 +89,16 @@ Noruega y España están en la misma zona horaria (UTC+2 hasta el 25 de octubre)
 
 # 📝 CORREOS
 
-Los campos entre llaves, como `{organizacion}`, se rellenan desde el CSV. Lo que va entre corchetes, como `[NOMBRE]`, lo rellenáis vosotros una vez.
+Los correos son **genéricos**: el mismo texto sirve para todos los destinatarios de cada grupo, sin cambiar el nombre de la organización. Solo hay que rellenar una vez lo que va entre corchetes, como `[NOMBRE]` y la firma.
+
+El saludo es **«Hello,»**. En Noruega el trato profesional es informal y el inglés es lo habitual en el sector tecnológico, así que no hace falta disculparse por escribir en inglés ni empezar con *Dear Sir or Madam*, que allí suena rígido.
 
 ## 1 · Empresas de Drammen y Kongsberg — 🔵 docente de Drammen (11)
 
 **Asunto:** Short visit in Drammen on 20 or 21 October? – Erasmus+ teachers from Spain
 
 ```text
-Hei {organizacion},
-
-(Sorry for writing in English!)
+Hello,
 
 My name is [NOMBRE] and I teach web development at CEEDCV, the public
 distance-learning school for adults of the Valencia Region in Spain. My
@@ -139,9 +139,7 @@ Thank you very much,
 **Asunto:** Short visit in Oslo on 22 or 23 October? – Erasmus+ teachers from Spain
 
 ```text
-Hei {organizacion},
-
-(Sorry for writing in English!)
+Hello,
 
 My name is [NOMBRE] and I teach web development at CEEDCV, the public
 distance-learning school for adults of the Valencia Region in Spain. My
@@ -186,9 +184,7 @@ Thank you very much,
 Cambiad `[CIUDAD Y FECHAS]` por *Drammen on Tuesday 20 and Wednesday 21 October* o *Oslo on Thursday 22 and Friday 23 October*.
 
 ```text
-Hei {organizacion},
-
-(Sorry for writing in English!)
+Hello,
 
 My name is [NOMBRE] and I teach web development at CEEDCV, the public
 distance-learning school for adults of the Valencia Region in Spain. My
@@ -201,9 +197,10 @@ for an Erasmus+-funded work placement, at no cost to the company. Our students
 are adults in the final year of a higher vocational programme in web
 development (PHP/Laravel, JavaScript, databases, Docker and Linux).
 
-Could you help us {personalizacion}? Suggesting one or two companies, or
-forwarding this message to the right people, would be extremely helpful. We
-would also be happy to meet you briefly if you have time.
+Could you help us get in touch with IT companies that might welcome a short
+visit? Suggesting one or two companies, or forwarding this message to the
+right people, would be extremely helpful. We would also be happy to meet you
+briefly if you have time.
 
 Thank you very much,
 
@@ -266,7 +263,7 @@ Best regards,
 Responded **sobre el mismo hilo** a quien no haya contestado. Cada docente con sus fechas:
 
 ```text
-Hei again,
+Hello again,
 
 Just a quick follow-up on my message from Wednesday. We will be in
 [Drammen on Tuesday 20 and Wednesday 21 October / Oslo on Thursday 22 and
