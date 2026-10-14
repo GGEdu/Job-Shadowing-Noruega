@@ -1,44 +1,59 @@
-# ✉️ CAMPAÑA DE CORREOS — VISITAS A EMPRESAS
-## Drammen, Kongsberg y Oslo · semana del 19 al 23 de octubre de 2026
+# ✉️ CAMPAÑA DE CORREOS — VISITAS A EMPRESAS Y UNIVERSIDADES
+## Drammen y Kongsberg (20–21 oct) · Oslo (22–23 oct) · 2026
 
-> **Preparada el martes 13 de octubre de 2026 para enviar el miércoles 14.** Todos los correos están **publicados** en la web de cada organización o en un directorio empresarial (1881, Brreg). **Ninguno está deducido.** La página exacta de cada uno está en la hoja. Verificados el 13/10/2026; no se ha probado la entrega.
+> **Actualizada el miércoles 14 de octubre de 2026 para enviarla hoy.** Dos docentes la lanzan a la vez: **uno escribe a todo lo de Drammen y Kongsberg; el otro, a todo lo de Oslo.** Todos los correos están **publicados** en la web de cada organización o en un directorio empresarial (1881, Brreg). **Ninguno está deducido.** La página de origen de cada uno está en la hoja. Verificados el 13/10/2026; no se ha probado la entrega.
 >
-> - Hoja de seguimiento: `contactos-campana-octubre-2026.xlsx`, en esta misma carpeta del repositorio (57 contactos, con estado, respuesta y visita).
-> - Archivo para combinar correspondencia: `contactos-campana-octubre-2026.csv`, en la misma carpeta (56 envíos; LINK va en copia).
-> - Contexto del proyecto: [6. Prospección de empresas (FCT)](../contenidos/6-prospeccion-fct.md).
+> En esta carpeta del repositorio:
+> - `envios-docente-drammen.csv`: 16 envíos, para combinar correspondencia.
+> - `envios-docente-oslo.csv`: 39 envíos, para combinar correspondencia.
+> - `contactos-campana-octubre-2026.xlsx`: hoja de seguimiento común, con estado, respuesta y visita.
+>
+> Contexto del proyecto: [6. Prospección de empresas (FCT)](../contenidos/6-prospeccion-fct.md).
 
 ---
 
-# 🎯 RESUMEN
+# 👥 REPARTO
 
-| | Cuántos | Qué pedimos |
-|---|---:|---|
-| 🏢 Empresas | 41 | Visita de 30–60 min entre el 19 y el 23 de octubre (plantilla A) |
-| 🤝 Organismos y centros tecnológicos | 11 | Que difundan la petición o nos pongan en contacto con empresas (plantilla B) |
-| 🎓 Universidades | 5 | Contacto, reunión breve y cooperación futura (plantilla C) |
-| 📞 Sin correo publicado | 11 | Llamar o usar el formulario (pestaña «Llamar» de la hoja) |
+| | 🔵 Docente de Drammen | 🟠 Docente de Oslo |
+|---|---|---|
+| **Nombre** | [NOMBRE] | [NOMBRE] |
+| **Días de visita que ofrece** | **Martes 20 y miércoles 21** | **Jueves 22 y viernes 23** |
+| **Empresas** (correo 1 o 2) | 11, de Drammen y Kongsberg | 30, de Oslo |
+| **Organismos** (correo B) | 4: NFDR, Kongsberg Næringsforum, Buskerud fylkeskommune, Drammen kommune | 7: AOF Opplæringskontor, Oslo Innovation Week, Abelia, Oslo Science Park, Hellerud vgs, Oslo&Co, StartupLab |
+| **Universidades** (correo 3) | 1: USN | 2: UiO (copia a LINK) y OsloMet |
+| **Total de envíos** | **16** | **39** |
+| **Llamadas** (jueves 15) | 6: Lifetools, Bit for Bit, Fishwell, Flatirons, Admindata, Atea Drammen | 5: Dekode, Konstant, Capgemini, Metronet, Stratema |
+| **Archivo** | `envios-docente-drammen.csv` | `envios-docente-oslo.csv` |
 
-**Las mejores apuestas:**
+La dirección de reserva de la Facultad de Educación de la UiO (`postmottak@uv.uio.no`) **no se envía ahora**: solo si `cooperation-edu@uio.no` no contesta.
 
-- **Statnett** (`laerling@statnett.no`): tiene **10–20 aprendices al año, también de IT-utvikler en Oslo**, y un buzón solo para aprendices. Es lo más parecido a vuestras FCT.
-- **AOF Opplæringskontor** (`aofok@aofok.no`): una **oficina de formación** que coloca aprendices en empresas. Puede abrir varias puertas a la vez.
-- **ECIT Solutions** (Drammen, `hei@ecit.no`): empresa **aprobada para tener aprendices de IT-utvikler** en Drammen.
-- **Maksimer, Ramsalt Lab, Represent y Skalar** (Oslo): agencias pequeñas que trabajan con **WordPress/WooCommerce, Drupal (PHP), Vue/Nuxt y React**, lo más parecido al ciclo DAW.
-- **Lifetools** (Kongsberg): trabaja con **PHP/Laravel, Vue y AWS**, el stack más cercano a DAW de toda la investigación. No publica correo: **llamar** (90 09 82 89, teléfono de su anuncio de empleo).
-- **Oslo Innovation Week** (`hey@oiw.no`): **se celebra del 19 al 22 de octubre**, justo vuestra semana, con eventos por toda la ciudad. Es la forma más fácil de conocer empresas sin cita previa.
+**Las mejores apuestas de cada lado:**
+
+- 🔵 **ECIT Solutions** (`hei@ecit.no`): aprobada para tener **aprendices de IT-utvikler** en Drammen.
+- 🔵 **Lifetools** (Kongsberg): **PHP/Laravel, Vue y AWS**, el stack más cercano a DAW. No publica correo: **llamar** al 90 09 82 89.
+- 🔵 **USN**: tiene **campus en Drammen**. Es la universidad más fácil de visitar.
+- 🟠 **Statnett** (`laerling@statnett.no`): **10–20 aprendices al año, también de IT-utvikler en Oslo**, con un buzón solo para ellos.
+- 🟠 **AOF Opplæringskontor** (`aofok@aofok.no`): una **oficina de formación** que coloca aprendices en empresas. Puede abrir varias puertas a la vez.
+- 🟠 **Maksimer, Ramsalt Lab, Represent y Skalar**: agencias pequeñas con **WordPress/WooCommerce, Drupal (PHP), Vue/Nuxt y React**.
+- 🟠 **Oslo Innovation Week** (`hey@oiw.no`): se celebra **del 19 al 22 de octubre**, con eventos por toda la ciudad.
 
 ---
 
 # 🗓️ CALENDARIO
 
-| Cuándo | Qué |
-|---|---|
-| **Miércoles 14, antes de enviar** | Avisar a **Ana Sieder** (coordinadora internacional de Åssiden): es la vía institucional prioritaria del proyecto y puede tener empresas colaboradoras. Revisar la firma y la disponibilidad de cada uno |
-| **Miércoles 14, 09:00–10:00** | **Tanda 1**: 20 envíos con prioridad A (empresas, organismos clave y universidades) |
-| **Miércoles 14, 14:00–15:00** | **Tanda 2**: 36 envíos con prioridad B y C |
-| **Jueves 15** | Llamar a las empresas sin correo (Lifetools, Bit for Bit, Dekode). Responder y cerrar citas |
-| **Viernes 16, 09:00** | **Recordatorio** (plantilla D) a quien no haya contestado en la tanda 1 |
-| **Lunes 19 – viernes 23** | Visitas. Anotar fecha y hora en la hoja |
+| Cuándo | 🔵 Docente de Drammen | 🟠 Docente de Oslo |
+|---|---|---|
+| **Miércoles 14, antes de enviar** | Avisar a **Ana Sieder** (Åssiden): es la vía institucional prioritaria y puede tener empresas colaboradoras | Subir la hoja a Drive u OneDrive y compartirla |
+| **Miércoles 14, ahora** | Enviar la USN a mano. Después, empresas y organismos con combinación de correspondencia | Enviar UiO y OsloMet a mano. Después, empresas y organismos con combinación de correspondencia |
+| **Jueves 15** | Llamadas de Drammen. Responder y cerrar citas para el 20 y el 21 | Llamadas de Oslo. Responder y cerrar citas para el 22 y el 23 |
+| **Viernes 16, 09:00** | Recordatorio a quien no haya contestado | Recordatorio a quien no haya contestado |
+| **Lunes 19** | Primer día en Åssiden | Primer día en Åssiden |
+| **Martes 20 – miércoles 21** | **Visitas en Drammen y Kongsberg** | |
+| **Jueves 22 – viernes 23** | | **Visitas en Oslo** |
+
+Como cada uno ofrece días distintos, no podéis pisaros las citas. Aun así:
+- Dejad **al menos 1 hora entre visitas**, y **1 h 30 si hay que ir a Kongsberg** (unos 40 minutos en tren desde Drammen).
+- Anotad cada cita en la hoja común **en cuanto la confirméis**.
 
 Noruega y España están en la misma zona horaria (UTC+2 hasta el 25 de octubre).
 
@@ -46,58 +61,70 @@ Noruega y España están en la misma zona horaria (UTC+2 hasta el 25 de octubre)
 
 # ✅ ANTES DE ENVIAR
 
-1. **Enviar desde el correo institucional**, no desde una cuenta personal. Da credibilidad y evita el filtro de spam.
-2. **Un correo por destinatario**: con combinación de correspondencia o a mano. **Nunca** todos juntos en copia oculta: parece spam, se pierde la personalización y expone el envío.
-3. **Rellenar la firma** de las plantillas: nombre, cargo, correo, móvil con +34 y web del centro.
-4. **Acordar las franjas libres** de los tres antes de enviar, para poder responder con una propuesta concreta. En Åssiden trabajáis por la mañana, así que las tardes son lo más fácil.
-5. **Revisar a mano tres direcciones dudosas**:
-   - AOF: la web muestra `aofok@aofok.no`, pero su enlace apunta a `aofok@aof.no`. Si rebota uno, usar el otro.
-   - Fink: el correo estaba protegido en la web.
-   - Maksimer: su teléfono es de Bergen; confirmar que tienen equipo en Oslo.
-6. **Una sola persona lleva la bandeja** de respuestas y la hoja, para no dar dos citas a la misma hora.
+1. **Enviad desde vuestro correo institucional**, no desde una cuenta personal. Da credibilidad y evita el filtro de spam.
+2. **Un correo por destinatario**, con combinación de correspondencia o a mano. **Nunca** todos juntos en copia oculta: parece spam y expone a los destinatarios.
+3. **Rellenad la firma** de los correos: nombre, cargo, correo, móvil con +34 y web del centro.
+4. **Confirmad dos cosas con el coordinador Erasmus+ del centro**, porque los correos las prometen:
+   - Cuánto duran las prácticas y en qué meses (está entre corchetes en el texto).
+   - Que las prácticas en el extranjero se pueden financiar con Erasmus+ y que el centro cubre el seguro. Si no es así, quitad esa frase.
+5. **Docente de Oslo — revisad tres direcciones dudosas:**
+   - AOF: la web muestra `aofok@aofok.no`, pero su enlace apunta a `aofok@aof.no`. Si rebota uno, usad el otro.
+   - Fink: el correo estaba protegido en su web.
+   - Maksimer: su teléfono es de Bergen; puede que no tengan equipo en Oslo.
+6. **Mandaos una prueba** a vosotros mismos antes del envío real.
 
 ### Cómo enviar con combinación de correspondencia
 
-- **Gmail (Google Workspace)**: botón **«Combinación de correspondencia»** al redactar, importando el CSV desde una hoja de Google. Si la cuenta no lo tiene, la extensión *YAMM* hace lo mismo.
+- **Gmail (Google Workspace)**: botón **«Combinación de correspondencia»** al redactar, con el CSV importado en una hoja de Google. Si la cuenta no lo tiene, la extensión *YAMM* hace lo mismo.
 - **Outlook**: Word → **Correspondencia → Iniciar combinación → Mensajes de correo**, con el CSV como lista de destinatarios.
-- Campos del CSV: `organizacion`, `email`, `cc`, `ciudad`, `personalizacion`. **Filtrar por la columna `plantilla`** y enviar cada plantilla por separado.
-- Antes del envío real, **mandarse una prueba** a uno mismo.
+- **Filtrad el CSV por la columna `correo`** y enviad cada grupo por separado, con su asunto:
+  - Docente de Drammen: `1 · Empresas Drammen` y `B · Organismos Drammen`.
+  - Docente de Oslo: `2 · Empresas Oslo` y `B · Organismos Oslo`.
+- Campos: `{organizacion}` en el saludo y `{personalizacion}` en el correo de organismos.
+- **Las universidades, a mano**: son tres correos y llevan copia.
 
-> **Sobre la legalidad:** la ley noruega de marketing (*markedsføringsloven*, § 15) prohíbe enviar publicidad por correo a particulares sin consentimiento. Esto no es publicidad: es una petición de visita, dirigida casi siempre a buzones genéricos de empresa y publicados por ellas. Aun así, enviad cada correo por separado y con una línea para que lo reenvíen si no es la dirección adecuada (ya está en las plantillas).
+> **Sobre la legalidad:** la ley noruega de marketing (*markedsføringsloven*, § 15) prohíbe enviar publicidad por correo a particulares sin consentimiento. Esto no es publicidad: es una petición de visita, dirigida casi siempre a buzones genéricos publicados por las propias empresas. Aun así, enviad cada correo por separado.
 
 ---
 
-# 📝 PLANTILLAS
+# 📝 CORREOS
 
-Los campos entre llaves, como `{organizacion}` o `{personalizacion}`, se rellenan desde el CSV. Los corchetes, como `[NOMBRE]`, se rellenan a mano una vez.
+Los campos entre llaves, como `{organizacion}`, se rellenan desde el CSV. Lo que va entre corchetes, como `[NOMBRE]`, lo rellenáis vosotros una vez.
 
-## Plantilla A — Empresas (41)
+## 1 · Empresas de Drammen y Kongsberg — 🔵 docente de Drammen (11)
 
-**Asunto:** Spanish IT teachers in Drammen 19–23 Oct (Erasmus+) – could we visit you?
-
-*Asunto alternativo en noruego:* Besøk 19.–23. oktober? Spanske IT-lærere på Erasmus+ i Drammen
+**Asunto:** Short visit in Drammen on 20 or 21 October? – Erasmus+ teachers from Spain
 
 ```text
 Hei {organizacion},
 
 (Sorry for writing in English!)
 
-My name is [NOMBRE] and I teach in the Web Application Development programme
-(higher vocational education) at CEEDCV, the public distance-learning school
-for adults of the Valencia Region in Spain. Two colleagues and I will be in
-Drammen from 19 to 23 October on an Erasmus+ job-shadowing visit to Åssiden
-videregående skole.
+My name is [NOMBRE] and I teach web development at CEEDCV, the public
+distance-learning school for adults of the Valencia Region in Spain. My
+colleagues and I are in Norway this month on an Erasmus+ visit to Åssiden
+videregående skole, and we will be in Drammen on Tuesday 20 and Wednesday
+21 October.
 
-We would very much like to visit you for 30–60 minutes that week to
-{personalizacion}. Our students learn PHP/Laravel, JavaScript, databases and
-deployment with Docker and Linux, and we are also exploring whether some of
-them could do their work placement in a Norwegian company in the future.
+Could we visit you for about 30 minutes on one of those days, at any time that
+suits you? We would like to learn what you do and how your team works, and to
+explain how a collaboration with our students could work.
 
-We are flexible: any day from Monday 19 to Friday 23 October, in Drammen or
-Oslo (afternoons are easiest for us). If a visit is not possible, a short
-video call or the name of the right person to contact would also help a lot.
+The idea in brief:
 
-If this is not the right address, we would be grateful if you could forward it.
+- Who: adult students in the final year of our two-year higher vocational
+  programme in Web Application Development (PHP/Laravel, JavaScript,
+  databases, Docker and Linux). Many of them already have work experience.
+- What: a work placement of about [3 months, usually between March and June],
+  working on real tasks with one of your developers as their supervisor.
+- Cost and paperwork: the placement is funded by an Erasmus+ grant, so there
+  is no salary or cost for you. Our school prepares the agreement and the
+  insurance, and one of our teachers follows each student throughout.
+- What you get: extra help on real projects, a low-risk way to get to know
+  future employees, and an international profile in your team.
+
+If a visit is not possible, a short call or the name of the right person to
+contact would also be very helpful.
 
 Thank you very much,
 
@@ -107,23 +134,72 @@ Thank you very much,
 [WEB DEL CENTRO]
 ```
 
-## Plantilla B — Organismos y centros tecnológicos (11)
+## 2 · Empresas de Oslo — 🟠 docente de Oslo (30)
 
-**Asunto:** Spanish VET teachers in Drammen 19–23 Oct – contact with IT companies (Erasmus+)
+**Asunto:** Short visit in Oslo on 22 or 23 October? – Erasmus+ teachers from Spain
 
 ```text
 Hei {organizacion},
 
 (Sorry for writing in English!)
 
-My name is [NOMBRE] and I teach web development in higher vocational education
-at CEEDCV, the public distance-learning school for adults of the Valencia
-Region in Spain. Two colleagues and I will be in Drammen from 19 to 23 October
-on an Erasmus+ job-shadowing visit to Åssiden videregående skole.
+My name is [NOMBRE] and I teach web development at CEEDCV, the public
+distance-learning school for adults of the Valencia Region in Spain. My
+colleagues and I are in Norway this month on an Erasmus+ visit to Åssiden
+videregående skole, and we will be in Oslo on Thursday 22 and Friday
+23 October.
 
-That week we would like to visit a few IT companies to learn how they work and
-to explore future work placements for our students, who learn PHP/Laravel,
-JavaScript, databases and deployment with Docker and Linux.
+Could we visit you for about 30 minutes on one of those days, at any time that
+suits you? We would like to learn what you do and how your team works, and to
+explain how a collaboration with our students could work.
+
+The idea in brief:
+
+- Who: adult students in the final year of our two-year higher vocational
+  programme in Web Application Development (PHP/Laravel, JavaScript,
+  databases, Docker and Linux). Many of them already have work experience.
+- What: a work placement of about [3 months, usually between March and June],
+  working on real tasks with one of your developers as their supervisor.
+- Cost and paperwork: the placement is funded by an Erasmus+ grant, so there
+  is no salary or cost for you. Our school prepares the agreement and the
+  insurance, and one of our teachers follows each student throughout.
+- What you get: extra help on real projects, a low-risk way to get to know
+  future employees, and an international profile in your team.
+
+If a visit is not possible, a short call or the name of the right person to
+contact would also be very helpful.
+
+Thank you very much,
+
+[NOMBRE Y APELLIDOS]
+[CARGO] · CEEDCV – Centro Específico de Educación a Distancia de la Comunitat Valenciana (Spain)
+[CORREO INSTITUCIONAL] · [MÓVIL +34 …]
+[WEB DEL CENTRO]
+```
+
+## B · Organismos — los dos docentes (4 + 7)
+
+**Asunto:**
+- 🔵 Docente de Drammen: *Spanish VET teachers in Drammen 20–21 October – contact with IT companies (Erasmus+)*
+- 🟠 Docente de Oslo: *Spanish VET teachers in Oslo 22–23 October – contact with IT companies (Erasmus+)*
+
+Cambiad `[CIUDAD Y FECHAS]` por *Drammen on Tuesday 20 and Wednesday 21 October* o *Oslo on Thursday 22 and Friday 23 October*.
+
+```text
+Hei {organizacion},
+
+(Sorry for writing in English!)
+
+My name is [NOMBRE] and I teach web development at CEEDCV, the public
+distance-learning school for adults of the Valencia Region in Spain. My
+colleagues and I are in Norway this month on an Erasmus+ visit to Åssiden
+videregående skole, and we will be in [CIUDAD Y FECHAS].
+
+On those days we would like to visit a few IT companies for about 30 minutes
+each, to learn what they do and to explain how they could host our students
+for an Erasmus+-funded work placement, at no cost to the company. Our students
+are adults in the final year of a higher vocational programme in web
+development (PHP/Laravel, JavaScript, databases, Docker and Linux).
 
 Could you help us {personalizacion}? Suggesting one or two companies, or
 forwarding this message to the right people, would be extremely helpful. We
@@ -134,62 +210,68 @@ Thank you very much,
 [FIRMA]
 ```
 
-## Plantilla C — Universidades (5)
+## 3 · Universidades — a mano (🔵 USN · 🟠 UiO y OsloMet)
 
-Enviar **un correo por institución**, con la copia que indica la hoja. Los textos de cada universidad están más abajo.
-
-**Asunto:** Erasmus+ staff from a Spanish public distance-learning VET school – contact request (19–23 October)
+| Universidad | Envía | Para / copia | Asunto | [CIUDAD Y FECHAS] | [ÁREA] |
+|---|---|---|---|---|---|
+| **USN** | 🔵 Drammen | `international@usn.no` / `educ@usn.no` | Erasmus+ visit from a Spanish public online VET school – Drammen, 20–21 October | Drammen on Tuesday 20 and Wednesday 21 October | teacher education and digital competence |
+| **UiO** | 🟠 Oslo | `cooperation-edu@uio.no` / `post@link.uio.no` | Erasmus+ visit from a Spanish public online VET school – Oslo, 22–23 October | Oslo on Thursday 22 and Friday 23 October | digital learning, online education and teacher development |
+| **OsloMet** | 🟠 Oslo | `international-lui@oslomet.no` / `lisebakke.brondbo@oslomet.no` | Erasmus+ visit from a Spanish public online VET school – Oslo, 22–23 October | Oslo on Thursday 22 and Friday 23 October | vocational teacher education |
 
 ```text
 Dear colleagues,
 
 My name is [NOMBRE] and I am a teacher at CEEDCV (Centro Específico de
 Educación a Distancia de la Comunitat Valenciana), the public school that
-offers online and distance education to adults in the Valencia Region (Spain),
-including vocational programmes such as Web Application Development. From 19 to
-23 October, three of us will be in Drammen on an Erasmus+ job-shadowing visit
-to Åssiden videregående skole.
+provides online and distance education to adults in the Valencia Region
+(Spain), including higher vocational programmes such as Web Application
+Development. My colleagues and I are in Norway this month on an Erasmus+ visit
+to Åssiden videregående skole, and we will be in [CIUDAD Y FECHAS].
 
-[PÁRRAFO DE LA UNIVERSIDAD]
+Could we meet you or a colleague for about 30–45 minutes on one of those days?
+We would like to learn about your work in [ÁREA], present our school and
+explore how our institutions, and our students, could work together.
+For example:
 
-If possible, we would love to have a short meeting that week, in person or
-online. Otherwise, we would like to establish a contact for future cooperation,
-for example Erasmus+ staff mobility or a cooperation partnership. Could you also
-let us know whether your institution has a procedure for staff visits from
-schools like ours?
+- Placements: our final-year web development students could do an
+  Erasmus+-funded placement in a digital learning, IT or research unit, at no
+  cost to the university.
+- Student projects: your students could observe or study how vocational
+  training is taught fully online, for example for theses or teaching
+  practice, and our students could join shared online projects.
+- Staff and projects: teacher exchanges through Erasmus+ staff mobility, and
+  joint Erasmus+ cooperation projects on online and vocational education.
+
+For you, this would mean a partner with long experience in online vocational
+education for adults, real cases for research and teaching, and a partner for
+future Erasmus+ projects.
+
+If a meeting is not possible, a short video call or the name of the right
+person to contact would be very welcome.
 
 Best regards,
 
 [FIRMA]
 ```
 
-**Párrafo de cada universidad:**
+### Qué esperar de cada universidad
 
-| Universidad | Para | Copia | Párrafo |
-|---|---|---|---|
-| Universidad de Oslo (UiO) | `cooperation-edu@uio.no` | `post@link.uio.no` | *We are particularly interested in digital learning, online education and teacher development, which is why we are also writing to LINK. We would be grateful if you could put us in touch with the right person or unit, for example at LINK or at the Department of Education (IPED).* |
-| OsloMet | `international-lui@oslomet.no` | `lisebakke.brondbo@oslomet.no` (coordinadora Erasmus+) | *We are particularly interested in your work in vocational teacher education (Department of Vocational Teacher Education) and in how vocational programmes are taught and assessed in Norway.* |
-| USN (campus de Drammen) | `international@usn.no` | `educ@usn.no` | *As we will be staying in Drammen, we would be delighted to visit your Drammen campus and learn about your work in teacher education and digital competence.* |
+- **UiO**: `cooperation-edu@uio.no` es su canal oficial de **cooperación educativa** con los departamentos. LINK, en copia, es su centro de aprendizaje digital, innovación docente y formación del profesorado, lo más cercano a vuestro perfil. La UiO **no publica un canal para visitas de personal**: se tramitan con un **acuerdo Erasmus+ entre instituciones** y con antelación. Una reunión en persona el 22 o el 23 es poco probable; si os ofrecen una **videollamada**, aceptadla.
+- **OsloMet**: es la que **más encaja en contenido**, porque tiene un departamento entero de **formación del profesorado de FP** (*Institutt for yrkesfaglærerutdanning*).
+- **USN**: es la **más fácil de visitar**, porque tiene **campus en Drammen**.
+- Si alguna os pregunta por un acuerdo Erasmus+, consultad al coordinador del CEEDCV o a Conselleria si ya existe uno con esa universidad.
 
-### Qué oficina de la Universidad de Oslo es la adecuada
+## Recordatorio — viernes 16, 09:00
 
-- **Escribid a `cooperation-edu@uio.no` con copia a `post@link.uio.no`**. El primero es el canal oficial de la UiO para **cooperación educativa** con sus departamentos, publicado en su página de contacto global. El segundo es **LINK**, el centro de aprendizaje, innovación y desarrollo académico, que es lo más cercano a vuestro perfil: aprendizaje digital, educación online y formación del profesorado.
-- La UiO **no publica un canal para visitas de personal (*job shadowing*)**. Según su página de movilidad de personal, esas visitas se tramitan a través de un **acuerdo Erasmus+ entre instituciones** y del departamento anfitrión, con antelación. **Una visita formal la semana que viene es poco probable**: pedid una videollamada o dejad el contacto hecho para el futuro.
-- Si no contestan, el buzón de la **Facultad de Ciencias de la Educación** es `postmottak@uv.uio.no` (está en la hoja, en la tanda 2).
-- **Por contenido, OsloMet encaja aún mejor**: tiene un departamento entero de **formación del profesorado de FP** (*Institutt for yrkesfaglærerutdanning*).
-- **Por logística, USN es la más práctica**: tiene **campus en Drammen**, en la misma ciudad que Åssiden.
-- Antes de escribir, preguntad en el CEEDCV o en Conselleria si existe algún acuerdo Erasmus+ con la UiO, OsloMet o USN: facilitaría mucho una visita.
-
-## Plantilla D — Recordatorio (viernes 16)
-
-Responder **sobre el mismo hilo** a quien no haya contestado en la tanda 1.
+Responded **sobre el mismo hilo** a quien no haya contestado. Cada docente con sus fechas:
 
 ```text
 Hei again,
 
-Just a quick follow-up on my message from Wednesday. We arrive in Drammen on
-Sunday and would still love to visit you, even for 30 minutes, any day between
-Monday 19 and Friday 23 October – or to have a short video call.
+Just a quick follow-up on my message from Wednesday. We will be in
+[Drammen on Tuesday 20 and Wednesday 21 October / Oslo on Thursday 22 and
+Friday 23 October] and would still love to visit you, even for 30 minutes –
+or to have a short video call.
 
 Thank you!
 
@@ -198,47 +280,93 @@ Thank you!
 
 ---
 
-# 📋 TANDA 1 — MIÉRCOLES 14, 09:00
+# 📋 ENVÍOS DE CADA DOCENTE
 
-| Prioridad | Ciudad | Organización | Email | Plantilla |
-|---|---|---|---|---|
-| A | Drammen | ECIT Solutions AS | `hei@ecit.no` | A |
-| A | Drammen | Cloud Connection AS | `kunde@cloudconnection.no` | A |
-| A | Drammen | Abacus-IT (Drammen) | `support@abacus-it.no` | A |
-| A | Drammen | ON Property AS | `post@on.no` | A |
-| A | Kongsberg | Vokser / Itumx AS | `support@itumx.no` | A |
-| A | Oslo | Statnett (aprendices) | `laerling@statnett.no` | A |
-| A | Oslo | Maksimer | `post@maksimer.no` | A |
-| A | Oslo | Ramsalt Lab | `firmapost@ramsalt.com` | A |
-| A | Oslo | Represent | `hello@represent.no` | A |
-| A | Oslo | Skalar AS | `kontakt@skalar.no` | A |
-| B | Oslo | Bekk | `hei@bekk.no` | A |
-| B | Oslo | Netlight | `info@netlight.no` | A |
-| B | Oslo | Kantega | Contacto de la oficina de Oslo (ver hoja) | A |
-| A | Drammen | Næringsforeningen i Drammensregionen | `post@nfdr.no` | B |
-| A | Kongsberg | Kongsberg Næringsforum | `post@knf.kongsberg.no` | B |
-| A | Oslo | AOF Opplæringskontor | `aofok@aofok.no` | B |
-| A | Oslo | Oslo Innovation Week | `hey@oiw.no` | B |
-| A | Oslo | Universidad de Oslo (UiO) | `cooperation-edu@uio.no` (CC LINK) | C |
-| A | Oslo | OsloMet | `international-lui@oslomet.no` (CC Erasmus+) | C |
-| A | Drammen | USN | `international@usn.no` (CC EDUC) | C |
+El detalle de cada contacto (fuente, teléfono, dirección, qué hace y tema para la visita) está en la hoja. Las direcciones personales publicadas como contacto de una oficina no se repiten aquí.
 
-La tanda 2 (36 contactos) y el detalle de cada uno, con fuente, teléfono, dirección y qué hace, están en la hoja.
+### 🔵 Docente de Drammen — 16 envíos
+
+| Correo | Prioridad | Organización | Email |
+|---|---|---|---|
+| 1 | A | ECIT Solutions AS | `hei@ecit.no` |
+| 1 | A | Cloud Connection AS | `kunde@cloudconnection.no` |
+| 1 | A | Abacus-IT (Drammen) | `support@abacus-it.no` |
+| 1 | A | ON Property AS | `post@on.no` |
+| 1 | A | Vokser / Itumx AS (Kongsberg) | `support@itumx.no` |
+| 1 | B | Addovation AS | `sales@addovation.com` |
+| 1 | B | Gapit Nordics AS | `sales@gapit.io` |
+| 1 | B | Peritus AS (ECIT Peritus) | `salg@peritus.no` |
+| 1 | B | Wingmen | `info@wingmen.no` |
+| 1 | C | NetSolution Buskerud/Viken AS | `post@netsolution.no` |
+| 1 | C | Luminus AS | `post@luminus.no` |
+| B | A | Næringsforeningen i Drammensregionen | `post@nfdr.no` |
+| B | A | Kongsberg Næringsforum | `post@knf.kongsberg.no` |
+| B | B | Buskerud fylkeskommune | `post@bfk.no` |
+| B | B | Drammen kommune | `kommunepost@drammen.kommune.no` |
+| 3 | A | USN | `international@usn.no` (copia: `educ@usn.no`) |
+
+### 🟠 Docente de Oslo — 39 envíos
+
+| Correo | Prioridad | Organización | Email |
+|---|---|---|---|
+| 2 | A | Statnett (aprendices) | `laerling@statnett.no` |
+| 2 | A | Maksimer | `post@maksimer.no` |
+| 2 | A | Ramsalt Lab | `firmapost@ramsalt.com` |
+| 2 | A | Represent | `hello@represent.no` |
+| 2 | A | Skalar AS | `kontakt@skalar.no` |
+| 2 | B | Bekk | `hei@bekk.no` |
+| 2 | B | Netlight | `info@netlight.no` |
+| 2 | B | Kantega | Contacto de la oficina de Oslo (ver hoja) |
+| 2 | B | Arribatec | `info@arribatec.com` |
+| 2 | B | Appsalon | `hello@appsalon.no` |
+| 2 | B | Increo | `hei@increo.no` |
+| 2 | B | Nettfokus | `post@nettfokus.no` |
+| 2 | B | Mediabooster | `post@mediabooster.no` |
+| 2 | B | Bakken & Bæck | `hello@bakkenbaeck.com` |
+| 2 | B | Enonic | `hello@enonic.com` |
+| 2 | C | Knowit | `post@knowit.no` |
+| 2 | C | Computas | `contact@computas.com` |
+| 2 | C | Sopra Steria Norge | `firmapost.no@soprasteria.com` |
+| 2 | C | Kodeworks | `post@kodeworks.no` |
+| 2 | C | Iterate | `mail@iterate.no` |
+| 2 | C | Variant | `post@variant.no` |
+| 2 | C | Fink | `hei@fink.no` |
+| 2 | C | Miles | Contacto de la oficina de Oslo (ver hoja) |
+| 2 | C | A2N (CoreTrek) | `info@coretrek.no` |
+| 2 | C | Frontkom | Contacto de la oficina de Oslo (ver hoja) |
+| 2 | C | ANTI | `osl@anti.as` |
+| 2 | C | Halogen | `hei@halogen.no` |
+| 2 | C | Heydays | `studio@heydays.no` |
+| 2 | C | M51 Marketing | `kontakt@m51.no` |
+| 2 | C | Yttr AS | `sales@yttr.ai` |
+| B | A | AOF Opplæringskontor | `aofok@aofok.no` |
+| B | A | Oslo Innovation Week | `hey@oiw.no` |
+| B | B | Abelia (NHO) | `post@abelia.no` |
+| B | B | Oslo Science Park | `post@forskningsparken.no` |
+| B | B | Hellerud vgs | `postmottak.hellerud.vgs@osloskolen.no` |
+| B | C | Oslo&Co | `digital@osloandco.no` |
+| B | C | StartupLab | `hello@startuplab.no` |
+| 3 | A | UiO | `cooperation-edu@uio.no` (copia: `post@link.uio.no`) |
+| 3 | A | OsloMet | `international-lui@oslomet.no` (copia: coordinadora Erasmus+) |
 
 ---
 
-# 📞 LLAMAR (sin correo publicado)
+# 📞 LLAMAR — JUEVES 15 (sin correo publicado)
 
-| Prioridad | Empresa | Teléfono | Por qué |
-|---|---|---|---|
-| **A** | **Lifetools AS** (Kongsberg) | 90 09 82 89 | **PHP/Laravel, Vue y AWS**: el stack más cercano a DAW |
-| **A** | **Bit for Bit AS** (Drammen) | 90 40 00 04 | Consultoría TI aprobada para aprendices de IT-utvikler |
-| **A** | **Dekode Interaktiv** (Oslo) | 45 81 02 00 | Agencia WordPress (29 empl.) |
-| A | Konstant AS (Oslo) | — | Drupal, PHP y React: mirar su web a mano |
-| B | Fishwell, Flatirons, Admindata, Capgemini, Metronet | En la hoja | Encaje medio |
-| C | Atea Drammen, Stratema | En la hoja | Solo teléfono o formulario |
+| Docente | Prioridad | Empresa | Teléfono | Por qué |
+|---|---|---|---|---|
+| 🔵 | **A** | **Lifetools AS** (Kongsberg) | 90 09 82 89 | **PHP/Laravel, Vue y AWS**: el stack más cercano a DAW |
+| 🔵 | **A** | **Bit for Bit AS** (Drammen) | 90 40 00 04 | Consultoría TI aprobada para aprendices de IT-utvikler |
+| 🔵 | B | Fishwell, Flatirons, Admindata | En la hoja | Encaje medio |
+| 🔵 | C | Atea Drammen | 22 09 50 00 | Solo teléfono |
+| 🟠 | **A** | **Dekode Interaktiv** | 45 81 02 00 | Agencia WordPress (29 empl.) |
+| 🟠 | A | Konstant AS | — | Drupal, PHP y React: mirar su web a mano |
+| 🟠 | B | Capgemini, Metronet | En la hoja | Encaje medio |
+| 🟠 | C | Stratema | — | Solo formulario |
 
-Para llamar en inglés: *«Hello, I'm a teacher from Spain. Next week we are in Drammen on an Erasmus+ visit, and we would like to visit your company for 30 minutes. Who could I send an email to?»*
+Para llamar en inglés, cada uno con su ciudad y sus fechas:
+
+> *«Hello, I'm a teacher from Spain. Next week we are in [Drammen on Tuesday 20 and Wednesday 21 / Oslo on Thursday 22 and Friday 23] on an Erasmus+ visit, and we would like to visit your company for 30 minutes to explain how your company could host our web development students for an Erasmus+ placement. Who could I send an email to?»*
 
 ---
 
