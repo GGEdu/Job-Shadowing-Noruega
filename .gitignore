@@ -37,3 +37,13 @@ src/.vitepress/temp/
 .agents
 copilot-instructions.md
 skills-lock.json
+
+# MemPalace per-project files (issue #185)
+mempalace.yaml
+entities.json
+
+# Graphify artifacts
+graphify-out/
+
+# Memoria de agentes: repo público, no se versiona
+.claude/memory/
